@@ -38,6 +38,6 @@
     "rollup-plugin-node-resolve": "^3.0.0",
     "rollup-watch": "^4.0.0",
     "sinon": "^2.3.2",
-    "yargs": "^8.0.1"
+    "yargs": "^16.0.0"
   }
 }
